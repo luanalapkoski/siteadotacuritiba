@@ -118,13 +118,13 @@ body {
 }
 
 .cabecalho-imagem {
-    width: 42%;
+    width: 57%;
 }
 
 .cabecalho-lista-item {
     display: inline-block;
-    margin: 0 20px;
-    font-size: 24px;
+    margin: 0 25px;
+    font-size: 27px;
     list-style:none;
 }
 
@@ -140,6 +140,7 @@ body {
 .animais-div {
     text-align: center;
     color: #FE9C34;
+    font-size: 25px;
 }
 
 .animais-titulo {
@@ -153,4 +154,88 @@ body {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     justify-content: space-between;
+    
 }
+    .colaboradores-imagem {
+        width: 280px;
+    }
+    
+    .colaboradores-div {
+        text-align:center;
+        color:#FE9C34;
+        font-size: 25px;
+    
+    }
+    
+    .colaboradores-titulo {
+        text-align: center;
+        padding: 25px 0;
+        color: #68A6A3;
+        font-size: 35px;
+    }
+    
+    .colaboradores-todos {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        justify-content: space-between;
+}
+
+    .colaborador-icone {
+        width: 25px;
+        
+    }
+    
+    .rodape-imagem{
+        height: 151px;
+    }
+    
+    .Flor-imagem {
+        width: 360px;
+    }
+    
+    .informaçoes{
+        color: #68A6A3;
+        display:flex;
+        justify-content:space-evenly;
+        align-items: center;
+        padding: 50px 0;
+    }
+
+    .informaçoes-div-conteudo{
+    font-size: 24px;
+    }
+    
+    .Peak-imagem {
+        width: 360px;
+    }
+
+    .Estrela-imagem {
+        width: 360px;
+    }
+    .Estrela-imagem2 {
+        width: 390px;
+    }
+
+    .Jota-imagem {
+        width: 360px;
+    }
+    .Jota-imagem2 {
+        width: 400px;
+    }
+
+    .Pedro-imagem {
+        width: 360px;
+    }
+
+    .Nico-imagem {
+        width: 350px;
+    }
+    
+    .Diva-imagem {
+        width: 390px;
+    }
+    
+    .Diva-imagem2 {
+        width: 350px;
+    }
+    
